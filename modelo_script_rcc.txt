@@ -1,0 +1,13 @@
+//& -> titulo
+//#! -> tópico
+//> -> frase
+
+&:Curso de Formação de Programadores
+
+#!Pai nosso tecnológico
+>Script programado por Gabriel
+>Ajudado pelo viado do luuuiiiz.
+>Todos os direitos reservados à RCC e aos programadores colaboradores.
+
+
+
