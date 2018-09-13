@@ -12,9 +12,12 @@ Em caso de dúvidas, sugestões ou erros, contate um dos responsáveis:
 
 - [,SrGabriel](https://www.habbo.com.br/profile/,SrGabriel)
 - [Goufix](https://www.habbo.com.br/profile/Goufix)
+<<<<<<< HEAD
 
 Auxiliado por:
 
+=======
+>>>>>>> 0b4576656873dcbc5f22c2ddabf177992f6d695b
 - [luuuiiiz.](https://www.habbo.com.br/profile/luuuiiiz.)
 
 ---
