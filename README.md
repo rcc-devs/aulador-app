@@ -1,11 +1,22 @@
-Componentes necess√rios para o programa:
--> Um computador mediano para que o programa possa funcionar na sua melhor forma
--> .NET 4.6.1
--> Instalar a fonte montserrat para uma melhor experi√ncia de user interface - OPCIONAL mas recomendado :)
+# Aulador da RCC
 
-Qualquer d√vida ou sugest√o pode sempre falar connosco atrav√s do jogo:
+### Componentes necess√°rios para o programa:
 
-Respons√vel: ,SrGabriel e Goufix
-Ajudantes: luuuiiiz.
+- Um computador mediano para que o programa possa funcionar em sua melhor forma;
+- Microsoft .NET `4.6.1.`
+- **[Opcional]** Instalar a fonte [Montserrat](https://fonts.google.com/specimen/Montserrat) para uma melhor experi√™ncia visual.
 
-Equipe T√cnica da RCC - 2018
+### D√∫vidas ou sugest√µes:
+
+Em caso de d√∫vidas, sugest√µes ou erros, contate um dos respons√°veis:
+
+- [,SrGabriel](https://www.habbo.com.br/profile/,SrGabriel)
+- [Goufix](https://www.habbo.com.br/profile/Goufix)
+
+Auxiliado por:
+
+- [luuuiiiz.](https://www.habbo.com.br/profile/luuuiiiz.)
+
+---
+
+Copyright ¬© Equipe de Desenvolvimento da RCC ‚Äî 2018
