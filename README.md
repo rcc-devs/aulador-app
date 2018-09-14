@@ -1,4 +1,4 @@
-# Aulador da RCC
+# RCC - Programa de aulas
 
 ### Componentes necessários para o programa:
 
