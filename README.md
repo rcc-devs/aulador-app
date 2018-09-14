@@ -4,7 +4,7 @@
 
 - Um computador mediano para que o programa possa funcionar em sua melhor forma;
 - Microsoft .NET `4.6.1.`
-- **[Opcional]** Instalar a fonte [Montserrat](https://fonts.google.com/specimen/Montserrat) ou clicando aqui em: [Montserrat Project](https://github.com/JulietaUla/Montserrat) para uma melhor experiência visual.
+- **[Opcional]** Instalar a fonte [Montserrat](https://fonts.google.com/specimen/Montserrat) ou clicando aqui em [Montserrat Project by JulietaUla](https://github.com/JulietaUla/Montserrat) para uma melhor experiência visual.
 
 ### Dúvidas ou sugestões:
 
